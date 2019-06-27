@@ -64,6 +64,6 @@
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
   <testcase classname="com.mkyong.hashing.AppTest" name="testEvenOdd" time="0.001"/>
-  <testcase classname="com.mkyong.hashing.AppTest" name="testEvenOdd1" time="0"/>
   <testcase classname="com.mkyong.hashing.AppTest" name="testApp" time="0"/>
+  <testcase classname="com.mkyong.hashing.AppTest" name="testEvenOdd1" time="0"/>
 </testsuite>
